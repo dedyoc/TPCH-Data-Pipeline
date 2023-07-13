@@ -1,0 +1,13 @@
+dagster==1.1.20
+dagit==1.1.20
+dagster-postgres==0.17.20
+pyarrow==10.0.1
+pandas==1.5.2
+sqlalchemy==1.4.46
+minio==7.1.15
+pymysql==1.0.3
+cryptography
+pydantic==1.8.2
+dagster-dbt==0.17.20
+duckdb
+s3fs
